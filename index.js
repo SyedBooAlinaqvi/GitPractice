@@ -1,1 +1,1 @@
-My name is BooAli
+const name = "booali"
