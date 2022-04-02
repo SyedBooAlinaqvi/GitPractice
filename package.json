@@ -1,5 +1,5 @@
 {
-  "name": "practive",
+  "name": "practice",
   "version": "1.0.0",
   "description": "some git practices",
   "main": "index.js",
@@ -10,11 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/SyedBooAlinaqvi/GitPractice.git"
   },
-  "keywords": [
-    "bla",
-    "bla",
-    "bla"
-  ],
+  "keywords": [],
   "author": "Saad Butt",
   "license": "ISC",
   "bugs": {
