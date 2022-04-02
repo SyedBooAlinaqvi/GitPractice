@@ -1,0 +1,24 @@
+{
+  "name": "practive",
+  "version": "1.0.0",
+  "description": "some git practices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SyedBooAlinaqvi/GitPractice.git"
+  },
+  "keywords": [
+    "bla",
+    "bla",
+    "bla"
+  ],
+  "author": "Saad Butt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SyedBooAlinaqvi/GitPractice/issues"
+  },
+  "homepage": "https://github.com/SyedBooAlinaqvi/GitPractice#readme"
+}
